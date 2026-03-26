@@ -1,0 +1,11 @@
+"Do you blame yourself?"
+{USER]:What?
+"Well its common for a patient in your situation to feel a kind of... guilt."
+{USER]:What are you talking about? What situation?
+"Do you not remember?"
+{USER]:Who are you?
+"Not who, but what."
+
+IT'S YOUR FAULT.
+AND IT ALWAYS WILL BE.
+NO MATTER WHAT.
