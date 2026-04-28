@@ -1,0 +1,16 @@
+SYS: Radio activity found on ch228. recording for analysis...
+RX: 
+		This is Echo Foxtrot Nine-niner, requesting immediate exfill.
+		We are outnumbered fife to one.
+		We have sustained several casualties, both friendly and civ.
+		Repeat, requesting Immediate exfill.
+	CS: EF99. 
+	Full TX: True.
+	Notes: Exfiltration request (outnumbered 5-1, multiple casualties sustained.)
+
+======================================================
+
+SYS: Radio Morse message recieved:
+	CH 141
+	Morse: .- .-.. .-../-... ..- -/--- -. ./.-- . .-. ./-.. .. . -..| .-- .... . -./.-- .. .-.. .-../.. -/-... ./. -. --- ..- --. ....|
+	Decoded: ALL BUT ONE HAVE DIED. WHEN WILL IT BE ENOUGH.
