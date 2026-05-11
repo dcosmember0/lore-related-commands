@@ -1,5 +1,7 @@
 clear
 cat full-log.txt
-sleep 2
+sleep 8
 cat Transcript.txt
+sleep 4
+cat digital-notes.txt
 sleep 2
